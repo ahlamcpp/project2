@@ -1,7 +1,7 @@
 # My Gallery 
 This web-development photos gallery is a project for [SEI](https://generalassemb.ly/) course at [Misk academy](https://misk.org.sa/miskacademy/) :camera_flash:
 * [Go to the link here](https://my-gallery-ahlam.herokuapp.com/) 
-<p align="center"><img src="./images/main.png" width="600" height="500"></p>
+<p align="center"><img src="./images/main.png" width="800" height="500"></p>
 
 ## How To Use: 
 The goal of this project is to make it possible for users to have their own photos online and private.
