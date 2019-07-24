@@ -17,6 +17,7 @@ How? First the user should **Sign up** in order to have a private gallery .
 * User could show all photos togather.
 * User could add/delete/edit albums.
 * Albums will be in descending ordered, so it's better to name them with years (2019, 2020, 2030).
+* User could download phtots by (Click right mouse/"Save picture as").
 
 ## Main Technologies:
 It is a full stack application using Ruby on Rails and Postgresql.
@@ -26,7 +27,7 @@ It is a full stack application using Ruby on Rails and Postgresql.
 * [CSS](https://www.w3schools.com/css/)
 
 ## :soon: Future Improvements:
-- [&#x2713;] Upload photos from and to computer.
+- [&#x2713;] Upload photos dirctly from computer.
 - [&#x2713;] Have a folder of favorate photos.
 - [&#x2713;] Add name to each photo. 
 - [&#x2713;] Have multible folders within an album.
