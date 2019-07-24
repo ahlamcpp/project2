@@ -11,18 +11,19 @@ How? First the user should **Sign up** in order to have a private gallery .
 2. Add Photos
 3. Show All Photos
 
+
+## Some Features:
+* User could search by the name of album.
+* User could show all photos togather.
+* User could add/delete/edit albums.
+* Albums will be in descending ordered, so it's better to name them with years (2019, 2020, 2030).
+
 ## Main Technologies:
 It is a full stack application using Ruby on Rails and Postgresql.
 * [bootstrap](https://github.com/twbs/bootstrap-rubygem)
 * [Ruby on Rails](https://rubyonrails.org/)
 * [sass-rails](https://github.com/rails/sass-rails)
 * [CSS](https://www.w3schools.com/css/)
-
-
-## Some Features:
-* User could search by the name of album.
-* User could show all photos togather.
-* User could add delete edit albums.
 
 ## :soon: Future Improvements:
 - [&#x2713;] Upload photos from and to computer.
